@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"HTML-CSS-JS Prettify",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Spacegray"
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Agila Theme",
+		"All Autocomplete",
+		"AutoFileName",
+		"Behave Color Scheme",
+		"ColorHelper",
+		"CSScheme",
+		"EditorConfig",
+		"EditorConfigSnippets",
+		"Emmet",
+		"EncodingHelper",
+		"Function Name Display",
+		"Hayaku - tools for writing CSS faster",
+		"HTML-CSS-JS Prettify",
+		"HTMLBeautify",
+		"JavaScript Snippets",
+		"List stylesheet variables",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
+		"Materialize-Appbar",
+		"Materialize-White-Panels",
+		"Package Control",
+		"Ruby Slim",
+		"Sass",
+		"SideBarEnhancements",
+		"Stylus",
+		"Stylus-Snippets",
+		"Sublimerge 3",
+		"Telerik AppBuilder",
+		"Theme - Broceanic",
+		"Theme - Brogrammer",
+		"Theme - Spacegray"
+	]
+}
